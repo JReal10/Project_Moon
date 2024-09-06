@@ -1,0 +1,31 @@
+venv
+env/
+venv/
+ENV/
+
+# Data files
+*.csv
+*.dat
+*.efx
+*.gbr
+*.key
+*.pps
+*.ppt
+*.pptx
+*.sdf
+*.tax2010
+*.vcf
+*.xml
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# VS Code settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
