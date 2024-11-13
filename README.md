@@ -13,7 +13,6 @@
 6. [Key Findings](#key-findings)
 7. [Conclusion](#conclusion)
 8. [Future Work](#future-work)
-9. [License](#license)
 
 ---
 
@@ -102,12 +101,3 @@ The analysis provides valuable insights into the unicorn ecosystem and suggests 
 - **Additional Features**: Integrate more granular financial metrics to enhance predictive power.
 - **Longitudinal Analysis**: Extend analysis to capture valuation trends post-2021.
 - **Network Analysis**: Explore the effect of investor networks on valuation growth.
-
---- 
-"""
-
-# Append formatted content to README.md
-with open("/mnt/data/README.md", "a") as file:
-    file.write(formatted_content)
-
-"/mnt/data/README.md"
